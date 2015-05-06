@@ -1,0 +1,71 @@
+Ingrese el tema por el cual usted quiere responder. Ingrese la parte num⁄rica de
+ las opciones.
+Temas: Matemﬂtica (1) / Historia (2) / Geograf›a (3) / Salir (0).
+1
+
+Calcular 12+25.
+37
+Respuesta correcta.
+Calcular 15-7.
+8
+Respuesta correcta.
+Calcular 6x7.
+42
+Respuesta correcta.
+Calcular 144/12.
+12
+Respuesta correcta.
+Calcular 15+6x3-12/2.
+27
+Respuesta correcta.
+Su puntaje hasta ahora es: 100
+
+Ingrese nuevamente un tema.
+Temas: Matemﬂtica (1) / Historia (2) / Geograf›a (3) / Salir (0).
+2
+
++Qu⁄ a±o se declaræ la independencia en Argentina? (1810/1816/1850).
+1816
+Respuesta correcta.
++Cuﬂntos d›as festivos hay en Espa±a? (17/11/14).
+14
+Respuesta correcta.
++Cuﬂntos edificios se derrumbaron el 11-S?.
+2
+Respuesta correcta.
++Qui⁄n asume la presidencia en 1946? (Peron/Duhalde/Illia).
+peron
+Respuesta correcta.
++A qu⁄ presidente le tocæ gobernar durante la primera guerra mundial? (Yrigoyen/
+Derqui/Frondizi).
+YRIGOYEN
+Respuesta correcta.
+Su puntaje hasta ahora es: 200
+
+Ingrese nuevamente un tema.
+Temas: Matemﬂtica (1) / Historia (2) / Geograf›a (3) / Salir (0).
+3
+
++Cual es la capital de Salta?.
+salta
+Respuesta correcta.
++Cual es la capital de Entre R›os.
+parana
+Respuesta correcta.
++Cual es la capital de Brasil?.
+brasilia
+Respuesta correcta.
++Cual es la capital de Jamaica?.
+kingston
+Respuesta correcta.
++Cual es la capital de Santa Luc›a?.
+castries
+Respuesta correcta.
+Su puntaje hasta ahora es: 280
+
+Ingrese nuevamente un tema.
+Temas: Matemﬂtica (1) / Historia (2) / Geograf›a (3) / Salir (0).
+0
+
+Process returned 0 (0x0)   execution time : 59.565 s
+Press any key to continue.
